@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## I AM LAZY
-so I just use default README
+## About
+I am a student interested in Security
 
 <!--
 **revalue-o/revalue-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
